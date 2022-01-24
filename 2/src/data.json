@@ -1,0 +1,132 @@
+{
+    "news": {
+        "city": "Германии",
+        "date": "31 июля, среда 02:32",
+        "list": [
+            {
+                "icon": "https://avatars.mds.yandex.net/get-ynews-logo/50744/254110440-1478693730910-square/logo-square",
+                "title": "Президент Армении Армен Саркисян отказался от власти и сделал историческое заявление",
+                "link": "https://yandex.ua/news/story/Prezident_Armenii_Armen_Sarkisyan_otkazalsya_otvlasti_i_sdelal_istoricheskoe_zayavlenie--11daf28db97c4a07cafc52479be8eb4a?lang=ru&from=main_portal&fan=1&stid=KqDm1YdoaM6FvAmz2wmL&t=1642964383&persistent_id=177914396&lr=142&msid=1642964755424265-18057170105491582762-man1-2791-176-man-l7-balancer-8080-BAL-4757&mlid=1642964383.glob_187.11daf28d&utm_source=morda_desktop&utm_medium=topnews_news"
+            },
+            {
+                "icon": "https://avatars.mds.yandex.net/get-ynews-logo/135513/254159223-1608710426.717464-square/logo-square",
+                "title": "Гаврилов: «Россия не станет терпеть атаку на русских в Донбассе»",
+                "link": "https://yandex.ua/news/story/Rossiya_zayavila_chto_budet_zashhishhat_svoikh_grazhdan_naDonbasse--e75b61c0b898934e31e8e12ebf596c63?lang=ru&from=main_portal&fan=1&stid=jpq279DUA5WQBZ-3oCIP&t=1642964383&persistent_id=177902176&lr=142&msid=1642964755424265-18057170105491582762-man1-2791-176-man-l7-balancer-8080-BAL-4757&mlid=1642964383.glob_187.e75b61c0&utm_source=morda_desktop&utm_medium=topnews_news"
+            },
+            {
+                "icon": "https://avatars.mds.yandex.net/get-ynews-logo/50744/254167401-1608646865.272167-square/logo-square",
+                "title": "Сборная Украины разгромила сербов в матче чемпионата Европы по футзалу",
+                "link": "https://yandex.ua/news/story/VBryussele_policiya_primenila_slezotochivyj_gaz_naakcii_protiv_sanitarnykh_mer--fd4f15d660a29a65b2fd10a73456d89e?lang=ru&rubric=personal_feed&fan=1&stid=ARYQnKPHQMf-HLC-u6cS&t=1642964383&persistent_id=177909910"
+            }
+        ],
+        "courses":[
+            {
+                "title": "USD MOEX",
+                "now": 63.52,
+                "difference": "+0,09"
+            },
+            {
+                "title": "EUR MOEX",
+                "now": 70.86,
+                "difference": "+0,14"
+            },
+            {
+                "title": "НЕФТЬ",
+                "now": 64.90,
+                "difference": "+1,63"
+            }
+        ]
+    },
+    "advertisement": {
+        "image": "https://avatars.mds.yandex.net/get-banana/49904/x25DMyIw5WlW_dz4PUL5LJYaq_banana_20161021_orig_x281x29.png/orig",
+        "title": "Загрузите браузер",
+        "text": "с защитой от шокирующей рекламы",
+        "link": "https://getfastbrowser.com/ru/1/?from=teaser_main_neyabro_logo-antishock1&utm_medium=teaser&utm_source=main&banerid=0201004261%3A86008970999552733&yclid=86008970999552733"
+    },
+    "finder": {
+        "logo": "data:image/svg+xml;charset=utf8,%3Csvg width='144' height='103' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M125.427 66.316c2.326 0 3.975-.423 5.201-1.311v-4.103c-1.268.889-2.791 1.438-4.905 1.438-3.595 0-5.075-2.79-5.075-7.19 0-4.609 1.818-6.977 5.117-6.977 1.945 0 3.848.677 4.863 1.311v-4.271c-1.057-.592-2.918-1.015-5.413-1.015-6.428 0-9.769 4.61-9.769 11.08 0 7.105 3.256 11.038 9.981 11.038zm-31.464-1.861v-4.102c-1.565 1.057-4.187 1.987-6.64 1.987-3.68 0-5.075-1.734-5.286-5.286h12.137V54.39c0-7.401-3.256-10.192-8.289-10.192-6.132 0-9.05 4.694-9.05 11.122 0 7.4 3.637 10.996 10.065 10.996 3.214 0 5.582-.846 7.063-1.861zM47.866 44.62v8.415h-6.724v-8.415H36.11v21.272h5.032v-8.881h6.724v8.88H52.9V44.622h-5.033zM75.61 61.917h-2.242V44.621H58.693v1.818c0 5.202-.339 11.926-2.115 15.478h-1.565v8.839h4.652v-4.863h11.292v4.863h4.652v-8.839zm34.424 3.976h5.709l-8.077-11.461 7.104-9.811h-5.074l-7.105 9.811v-9.811h-5.033v21.272h5.033V55.447l7.443 10.446zm-24.232-17.72c2.495 0 3.256 2.072 3.256 4.736v.423h-7.02c.127-3.383 1.353-5.159 3.764-5.159zM68.335 61.917H61.23c1.396-3.214 1.776-9.008 1.776-12.687v-.634h5.329v13.321z' fill='%23000'/%3E%3Cpath d='M31.88 65.892h-5.116V40.476H24.48c-4.187 0-6.386 2.114-6.386 5.244 0 3.552 1.523 5.202 4.652 7.316l2.58 1.734-7.443 11.122h-5.54l6.682-9.938c-3.849-2.749-6.006-5.413-6.006-9.938 0-5.667 3.933-9.515 11.419-9.515h7.443v29.391z' fill='%23FC3F1D'/%3E%3C/svg%3E",
+        "services": [
+            {
+                "title": "Видео",
+                "link": "https://yandex.ua/video/search?utm_source=main_stripe_big&text=%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE"
+            },
+            {
+                "title": "Картинки",
+                "link": "https://yandex.ua/images/?utm_source=main_stripe_big"
+            },
+            {
+                "title": "Новости",
+                "link": "https://yandex.ua/news/?utm_source=main_stripe_big"
+            }
+        ],
+        "example": {
+            "title": "фаза луны сегодня",
+            "link": "https://yandex.ua/search/?lr=142&text=%D1%84%D0%B0%D0%B7%D0%B0+%D0%BB%D1%83%D0%BD%D1%8B+%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F&src=suggest_B"
+        }
+    },
+    "banner": {
+        "image": "https://www.gostudy.cz/wp-content/uploads/2021/10/6mdnxbbjyc4.jpg",
+        "link": "https://www.gostudy.cz/blog/zhizn-v-chehii/immigraciia-v-chehiu?utm_medium=cpc&utm_source=yandex&utm_campaign=cw_im67583415&utm_content=11408946280&utm_term=---autotargeting&yclid=86029856597381690"
+    },
+    "services":[
+        {
+            "type": "Weather",
+            "title": {
+                "name": "Погода"
+            },
+            "data": {
+                "image": "data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='36' height='36'%3e%3cdefs%3e%3cradialGradient cy='50.27%25' fx='50%25' fy='50.27%25' r='48.4%25' id='a'%3e%3cstop stop-color='%23FFC227' offset='0%25'/%3e%3cstop stop-color='%23FFB300' offset='100%25'/%3e%3c/radialGradient%3e%3cradialGradient cx='10.96%25' cy='64.36%25' fx='10.96%25' fy='64.36%25' r='56.51%25' id='b'%3e%3cstop stop-color='%23E85423' offset='0%25'/%3e%3cstop stop-color='%23E85423' stop-opacity='0' offset='100%25'/%3e%3c/radialGradient%3e%3cradialGradient cx='56.96%25' cy='106.36%25' fx='56.96%25' fy='106.36%25' r='39.88%25' id='d'%3e%3cstop stop-color='%23E85423' offset='0%25'/%3e%3cstop stop-color='%23E85423' stop-opacity='0' offset='100%25'/%3e%3c/radialGradient%3e%3ccircle id='c' cx='6' cy='6' r='6'/%3e%3cradialGradient cx='88.2%25' cy='11.31%25' fx='88.2%25' fy='11.31%25' r='51.28%25' gradientTransform='matrix(0 -.975 1 0 .77 .97)' id='e'%3e%3cstop stop-color='%239699C7' offset='0%25'/%3e%3cstop stop-color='%239499C9' stop-opacity='0' offset='100%25'/%3e%3c/radialGradient%3e%3cradialGradient cx='8.17%25' cy='-6.53%25' fx='8.17%25' fy='-6.53%25' r='65.22%25' gradientTransform='matrix(0 -.975 1 0 .15 .01)' id='f'%3e%3cstop stop-color='%239699C7' offset='0%25'/%3e%3cstop stop-color='%239499C9' stop-opacity='0' offset='100%25'/%3e%3c/radialGradient%3e%3clinearGradient x1='50%25' y1='0%25' x2='50%25' y2='100%25' id='g'%3e%3cstop stop-color='%23A4C5F4' offset='0%25'/%3e%3cstop stop-color='%23A7C7F2' offset='100%25'/%3e%3c/linearGradient%3e%3cradialGradient cx='88.2%25' cy='9.46%25' fx='88.2%25' fy='9.46%25' r='49.38%25' gradientTransform='matrix(0 -.975 1 0 .79 .95)' id='h'%3e%3cstop stop-color='%23486DA8' offset='0%25'/%3e%3cstop stop-color='%23486DA8' stop-opacity='0' offset='100%25'/%3e%3c/radialGradient%3e%3cradialGradient cx='14.44%25' cy='0%25' fx='14.44%25' fy='0%25' r='51.28%25' gradientTransform='matrix(0 -.975 1 0 .14 .14)' id='i'%3e%3cstop stop-color='%23486DA8' offset='0%25'/%3e%3cstop stop-color='%23486DA8' stop-opacity='0' offset='100%25'/%3e%3c/radialGradient%3e%3clinearGradient x1='50%25' y1='0%25' x2='50%25' y2='122.37%25' id='j'%3e%3cstop stop-color='%23A4C5F4' offset='0%25'/%3e%3cstop stop-color='%23A7C7F2' offset='100%25'/%3e%3c/linearGradient%3e%3c/defs%3e%3cg fill='none' fill-rule='evenodd'%3e%3cg transform='translate(12 3.5)'%3e%3ccircle fill='url(%23a)' cx='12' cy='12' r='6'/%3e%3cpath d='M9 1.49a1.13 1.13 0 0 1 2.22-.4l.39 2.22a1.13 1.13 0 0 1-2.22.4L9 1.48zm3.39 19.2a1.12 1.12 0 1 1 2.22-.4l.39 2.22a1.12 1.12 0 1 1-2.22.4l-.39-2.22zm4.93-18.24a1.12 1.12 0 1 1 1.84 1.29l-1.3 1.84a1.13 1.13 0 0 1-1.83-1.29l1.29-1.84zM6.13 18.42a1.13 1.13 0 0 1 1.84 1.29l-1.29 1.84a1.12 1.12 0 1 1-1.84-1.29l1.3-1.84zM2.45 6.68a1.12 1.12 0 1 1 1.29-1.84l1.84 1.3a1.13 1.13 0 0 1-1.29 1.83L2.45 6.68zm15.97 11.19a1.12 1.12 0 1 1 1.29-1.84l1.84 1.29a1.12 1.12 0 1 1-1.29 1.84l-1.84-1.3zM22.51 9a1.12 1.12 0 1 1 .4 2.22l-2.22.39a1.13 1.13 0 0 1-.4-2.22L22.52 9zM1.49 15a1.13 1.13 0 0 1-.4-2.22l2.22-.39a1.12 1.12 0 1 1 .4 2.22L1.48 15z' fill='%23FFB300' fill-rule='nonzero'/%3e%3c/g%3e%3cg transform='translate(18 9.5)' opacity='.5'%3e%3cuse fill='url(%23b)' xlink:href='%23c'/%3e%3cuse fill='url(%23d)' xlink:href='%23c'/%3e%3c/g%3e%3cg transform='translate(1.5 10.55)'%3e%3cellipse fill='url(%23e)' opacity='.2' cx='7.5' cy='12.31' rx='6' ry='6.15'/%3e%3cellipse fill='url(%23f)' opacity='.2' cx='23.25' cy='14.62' rx='3.75' ry='3.85'/%3e%3cpath d='M7.5 18.46c-3.31 0-6-2.75-6-6.15 0-3.4 2.69-6.16 6-6.16a6 6 0 0 1 1.8.28 6.78 6.78 0 0 1 6.45-4.9 6.84 6.84 0 0 1 6.67 8 4.4 4.4 0 0 1 1.58-.3c2.49 0 4.5 2.07 4.5 4.62a4.56 4.56 0 0 1-4.5 4.61H7.5z' fill='url(%23g)'/%3e%3cellipse fill='url(%23h)' opacity='.34' cx='7.5' cy='12.31' rx='6' ry='6.15'/%3e%3cellipse fill='url(%23i)' opacity='.2' cx='24' cy='13.85' rx='4.5' ry='4.62'/%3e%3cellipse fill='url(%23j)' cx='15.75' cy='8.46' rx='6.75' ry='6.92'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e",
+                "now": "-4°",
+                "evening": "-6°",
+                "night": "-10°"
+            }
+        },
+        {
+            "type": "Visited",
+            "title": {
+                "name": "Посещаемое"
+            },
+            "data": {
+                "list": [
+                    {
+                        "name": "Маркет",
+                        "title": "люстры и светильники",
+                        "link": "https://market.yandex.ua/?clid=505&utm_source=main_stripe_big&src_pof=505&icookie=7imTsC67Qn90vJOZyrfL0VRTcZUi0AMz71UFK7AREcVeuYZ0ctLs5ZMoj9lI8AbgIOuayTtdgWaAqZEvxfnLwdJ5BRI%3D&utm_source_service=morda"
+                    },
+                    {
+                        "name": "Авто.ру",
+                        "title": "привод 4х4 до 500 000",
+                        "link": "https://auto.ru/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "TV",
+            "title": {
+                "name": "Телепрограмма",
+                "icon": "Эфир"
+            },
+            "data": {
+                "list": [
+                    {
+                        "time": "02:00",
+                        "name": "THT. Best",
+                        "channel": "THT International"
+                    },
+                    {
+                        "time": "02:15",
+                        "name": "Джинглики",
+                        "channel": "Карусель INT"
+                    },
+                    {
+                        "time": "02:25",
+                        "name": "Наедине со всеми",
+                        "channel": "Первыйы"
+                    }
+                ]
+            }
+            
+        }
+    ]
+}

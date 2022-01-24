@@ -1,0 +1,15 @@
+.new_section{
+    border: 3px solid red;
+}
+
+.widget{
+    border: 1px solid green;
+}
+
+img{
+    object-fit: cover;
+}
+
+.banner{
+    height: 200px;
+}
